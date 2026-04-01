@@ -1,0 +1,5 @@
+{
+  "name": "NutriScan",
+  "description": "A mobile-friendly web app to scan food barcodes and view nutritional information using the Open Food Facts API.",
+  "requestFramePermissions": ["camera"]
+}
